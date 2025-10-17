@@ -1,5 +1,5 @@
 layout: page
 title: "Contact"
-permalink: /homw/contact
+permalink: /home/contact
 
 xxx
